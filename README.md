@@ -25,5 +25,4 @@ Get a single thought
 
 ## Coming Soon: /api/thoughts/:thoughtId/reactions
 
-
 See the video here: https://watch.screencastify.com/v/tzvUcWqv6U2638NFZoyo
